@@ -1,0 +1,1 @@
+{"version":3,"file":"data.js","sourceRoot":"","sources":["../src/data.ts"],"names":[],"mappings":";;AAAA,qCAAqC;AAErC,MAAM,OAAO;IAIT;QACI,IAAI,CAAC,SAAS;YACd,IAAI,CAAC,MAAM,GAAG,QAAQ,CAAC,MAAM,EAAE,CAAC;QAChC,IAAI,CAAC,SAAS,GAAG,IAAI,IAAI,CAAC,MAAM,CAAC,IAAI,CAAC,CAAA;IAC1C,CAAC;CACJ"}
